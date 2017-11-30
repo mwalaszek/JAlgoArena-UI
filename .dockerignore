@@ -1,0 +1,14 @@
+!Dockerfile
+*.gradle
+.idea
+.gitignore
+.travis.yml
+README.md
+gradle
+node_modules
+test
+design
+dist
+public
+gradlew
+gradlew.bat
