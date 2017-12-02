@@ -1,7 +1,7 @@
 const emailRegex = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
 
 module.exports = {
-    jalgoarenaApiUrl: "http://api:5001",
+    jalgoarenaApiUrl: "https://jalgo-api.herokuapp.com",
     title: "Start to solve your first problem",
     emailRegex,
     emailErrorMessage: "Please enter a valid email address",
